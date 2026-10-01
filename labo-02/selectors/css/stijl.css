@@ -34,7 +34,7 @@ h2 + p{
 }
 
 /* 5. elk oneven item in de lijst met openingsuren -> background-color: #f1e9dc; */
-.uren :nth-child(odd){
+.uren li:nth-child(odd){
       background-color: #f1e9dc;
 }
 
