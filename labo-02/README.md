@@ -1,6 +1,6 @@
 # Labo 2 - reflecties
 
-Naam: (jouw naam)
+Naam: Nicky Bruynseels
 
 ## 2. Selectors lezen
 
