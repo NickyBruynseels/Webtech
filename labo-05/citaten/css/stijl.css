@@ -1,0 +1,59 @@
+/* stijl.css - labo 5, citaten (reset.css is linked before this file) */
+
+/* === tokens === */
+:root {
+
+}
+
+/* === your rules === */
+main {
+display: flex;
+flex-wrap: wrap;
+font-family: verdana, sans-serif;
+padding: 1rem;
+gap: 1rem;
+}
+.citaat {
+    flex: 1 1 20rem;
+    padding: 2rem;
+}
+.blauw {
+    color: #1e5bd8;
+    border-left: 5px solid #1e5bd8;
+    padding-left: 2rem;
+}
+.roze {
+    color: #e88bb4;
+    border-left: 5px solid #e88bb4;
+    padding-left: 2rem;
+}
+.rood {
+    color: #c51f2a;
+    border-left: 5px solid #c51f2a;
+    padding-left: 2rem;
+}
+.oranje {
+    color: #d98c1a;
+    border-left: 5px solid #d98c1a;
+    padding-left: 2rem;
+}
+.groen {
+    color: #3b7a2a;
+    border-left: 5px solid #3b7a2a;
+    padding-left: 2rem;
+}
+.salie {
+    color: #8fb89a;
+    border-left: 5px solid #8fb89a;
+    padding-left: 2rem;
+}
+.paars {
+    color: #7b4fa3;
+    border-left: 5px solid #7b4fa3;
+    padding-left: 2rem;
+}
+.grijs {
+    color: #6b6b6b;
+    border-left: 5px solid #6b6b6b;
+    padding-left: 2rem;
+}
